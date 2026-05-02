@@ -1,0 +1,6 @@
+product_id,category,price,in_stcock
+101,Electronics,499.99,True
+102,Books,19.95,True
+103,Electronics,899.00,False
+104,Clothing,49.50,True
+105,Electronics,75.00,True
