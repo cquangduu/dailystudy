@@ -1,6 +1,6 @@
 import pandas as pd
 
-def folter_electronics_under_price(input_file, output_file, max_price):
+def filter_electronics_under_price(input_file, output_file, max_price):
 	df = pd.read_csv(input_file)
 	filered_df = df[
 		(df['category'] == 'Electronics') &
